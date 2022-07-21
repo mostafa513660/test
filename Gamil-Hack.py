@@ -4,7 +4,7 @@ import smtplib
 from os import system
 
 def main():
-
+print("Clowns Team")
 main()
 print ('[1] start the attack')
 print ('[2] exit')
