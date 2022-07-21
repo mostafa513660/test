@@ -2,11 +2,9 @@
 
 import smtplib
 from os import system
-import pyfiglet
 
 def main():
-   logo = pyfiglet .figlet_format ("Team Clowns")
-   print(logo)
+
 main()
 print ('[1] start the attack')
 print ('[2] exit')
